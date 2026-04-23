@@ -1,0 +1,204 @@
+{
+  "TKT-20260423062447-158B": {
+    "ticket_id": "TKT-20260423062447-158B",
+    "session_id": "session_001",
+    "status": "OPEN",
+    "priority": "MEDIUM",
+    "user_query": "How do I track my order?",
+    "escalation_reason": "AI system expressed uncertainty - routing to human agent for accurate response",
+    "conversation_history": [],
+    "ai_attempt": "I don't have enough information to answer this question accurately.",
+    "retrieved_context": "[Source: shopease_support.pdf, Page 2]\nQ: How do I track my order? \nA: You can track your order by following these steps: \n   1. Log in to your ShopEase account \n   2. Go to \"My Orders\" section \n   3. Click on the order you want to track \n   4. You will see the current status and location \n   You can also track using the tracking link \n   sent to your registered email. \n \nQ: Can I cancel my order? \nA: Yes, you can cancel your order if it has not \n   been shipped yet. To cancel: \n   1. Go to \"My ",
+    "created_at": "2026-04-23T06:24:47.253970",
+    "resolved_at": null,
+    "human_response": null,
+    "assigned_agent": null
+  },
+  "TKT-20260423064245-FEA2": {
+    "ticket_id": "TKT-20260423064245-FEA2",
+    "session_id": "session_001",
+    "status": "RESOLVED",
+    "priority": "MEDIUM",
+    "user_query": "what is life",
+    "escalation_reason": "AI system expressed uncertainty - routing to human agent for accurate response",
+    "conversation_history": [
+      {
+        "role": "user",
+        "content": "i want to speak to a  human"
+      },
+      {
+        "role": "assistant",
+        "content": "You can reach ShopEase support through various channels, including phone, email, live chat, and the help center. \n\nTo speak to a human, you can try the following options:\n\n1. Phone: Call our toll-free number 1800-123-4567 between 9 AM and 9 PM.\n2. Live Chat: Visit our website or app and click on the live chat icon to start a conversation with a support agent.\n3. Email: Send an email to support@shopease.com, and our team will respond within 24 hours.\n\nPlease note that our customer support hours are from Monday to Sunday, 9 AM to 9 PM IST.",
+        "sources": [
+          "shopease_support.pdf (Page 1)",
+          "shopease_support.pdf (Page 9)",
+          "shopease_support.pdf (Page 10)"
+        ],
+        "escalated": false,
+        "ticket_id": null
+      },
+      {
+        "role": "user",
+        "content": "human call please"
+      },
+      {
+        "role": "assistant",
+        "content": "You can reach ShopEase support through various channels, including phone, email, live chat, and the help center. To speak to a human, you can try the following option:\n\n1. Phone: Call our toll-free number 1800-123-4567 between 9 AM and 9 PM.",
+        "sources": [
+          "shopease_support.pdf (Page 1)",
+          "shopease_support.pdf (Page 9)",
+          "shopease_support.pdf (Page 3)",
+          "shopease_support.pdf (Page 10)"
+        ],
+        "escalated": false,
+        "ticket_id": null
+      },
+      {
+        "role": "user",
+        "content": "transfer me to human"
+      },
+      {
+        "role": "assistant",
+        "content": "To speak to a human, you can call our toll-free number 1800-123-4567 between 9 AM and 9 PM.",
+        "sources": [
+          "shopease_support.pdf (Page 1)",
+          "shopease_support.pdf (Page 8)",
+          "shopease_support.pdf (Page 6)",
+          "shopease_support.pdf (Page 2)"
+        ],
+        "escalated": false,
+        "ticket_id": null
+      }
+    ],
+    "ai_attempt": "I don't have enough information to answer this question accurately.",
+    "retrieved_context": "[Source: shopease_support.pdf, Page 9]\n- No expiry on wallet balance \n   - Maximum wallet balance: Rs 50,000 \n \n================================================ \nSECTION 7: CUSTOMER SUPPORT \n================================================ \n \nQ: How do I contact customer support? \nA: You can reach ShopEase support through: \n   - Phone: 1800-123-4567 (Toll Free, 9AM-9PM) \n   - Email: support@shopease.com \n   - Live Chat: Available on website and app \n   - Help Center: help.shopease.com \n \nQ: What",
+    "created_at": "2026-04-23T06:42:45.525274",
+    "resolved_at": "2026-04-23T06:42:52.999770",
+    "human_response": "life is beautiful",
+    "assigned_agent": null
+  },
+  "TKT-20260423064316-2A4E": {
+    "ticket_id": "TKT-20260423064316-2A4E",
+    "session_id": "session_001",
+    "status": "RESOLVED",
+    "priority": "MEDIUM",
+    "user_query": "stat",
+    "escalation_reason": "AI system expressed uncertainty - routing to human agent for accurate response",
+    "conversation_history": [
+      {
+        "role": "user",
+        "content": "transfer me to human"
+      },
+      {
+        "role": "assistant",
+        "content": "To speak to a human, you can call our toll-free number 1800-123-4567 between 9 AM and 9 PM.",
+        "sources": [
+          "shopease_support.pdf (Page 1)",
+          "shopease_support.pdf (Page 8)",
+          "shopease_support.pdf (Page 6)",
+          "shopease_support.pdf (Page 2)"
+        ],
+        "escalated": false,
+        "ticket_id": null
+      },
+      {
+        "role": "user",
+        "content": "what is life"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\uddd1\u200d\ud83d\udcbc **Response from Human Agent:**\n\nlife is beautiful\n\n\ud83d\udccb Reference: TKT-20260423064245-FEA2",
+        "sources": [
+          "shopease_support.pdf (Page 1)",
+          "shopease_support.pdf (Page 9)",
+          "shopease_support.pdf (Page 7)"
+        ],
+        "escalated": true,
+        "ticket_id": "TKT-20260423064245-FEA2"
+      },
+      {
+        "role": "user",
+        "content": "bye"
+      },
+      {
+        "role": "assistant",
+        "content": "It seems like the conversation has ended. Since the customer said \"bye,\" I'll respond accordingly.\n\nGoodbye, and thank you for reaching out to ShopEase support. If you have any other questions or concerns in the future, feel free to contact us.",
+        "sources": [
+          "shopease_support.pdf (Page 9)",
+          "shopease_support.pdf (Page 8)",
+          "shopease_support.pdf (Page 2)"
+        ],
+        "escalated": false,
+        "ticket_id": null
+      }
+    ],
+    "ai_attempt": "I don't have enough information to answer this question accurately.",
+    "retrieved_context": "[Source: shopease_support.pdf, Page 8]\n5. Click \"Apply\" \n   6. Discount will be deducted from total\n\n---\n\n[Source: shopease_support.pdf, Page 9]\nQ: What are customer support hours? \nA: Customer support is available:\n\n---\n\n[Source: shopease_support.pdf, Page 3]\n================================================ \nSECTION 2: DELIVERY AND SHIPPING \n================================================ \n \nQ: What are the delivery charges? \nA: Delivery charges are as follows: \n   - Orders above Rs 499: FREE ",
+    "created_at": "2026-04-23T06:43:16.530479",
+    "resolved_at": "2026-04-23T06:43:28.658090",
+    "human_response": "nothing",
+    "assigned_agent": null
+  },
+  "TKT-20260423090928-8613": {
+    "ticket_id": "TKT-20260423090928-8613",
+    "session_id": "session_001",
+    "status": "RESOLVED",
+    "priority": "MEDIUM",
+    "user_query": "what is your use",
+    "escalation_reason": "AI system expressed uncertainty - routing to human agent for accurate response",
+    "conversation_history": [],
+    "ai_attempt": "I don't have enough information to answer this question accurately.",
+    "retrieved_context": "[Source: shopease_support.pdf, Page 7]\n5. We will investigate and resolve within 48 hours \n \n================================================ \nSECTION 5: ACCOUNT AND PROFILE \n================================================ \n \nQ: How do I create an account? \nA: To create a ShopEase account: \n   1. Visit www.shopease.com \n   2. Click \"Sign Up\" button \n   3. Enter your name, email, and phone number \n   4. Create a strong password \n   5. Verify your email address \n   6. Your account is ready to use",
+    "created_at": "2026-04-23T09:09:28.585923",
+    "resolved_at": "2026-04-23T09:09:49.169053",
+    "human_response": "i can answer your questions related to store",
+    "assigned_agent": null
+  },
+  "TKT-20260423091830-3DB5": {
+    "ticket_id": "TKT-20260423091830-3DB5",
+    "session_id": "session_001",
+    "status": "RESOLVED",
+    "priority": "MEDIUM",
+    "user_query": "what is maths",
+    "escalation_reason": "AI system expressed uncertainty - routing to human agent for accurate response",
+    "conversation_history": [
+      {
+        "role": "user",
+        "content": "what is your use"
+      },
+      {
+        "role": "assistant",
+        "content": "\ud83e\uddd1\u200d\ud83d\udcbc **Response from Human Agent:**\n\ni can answer your questions related to store\n\n\ud83d\udccb Reference: TKT-20260423090928-8613",
+        "sources": [
+          "shopease_support.pdf (Page 5)",
+          "shopease_support.pdf (Page 7)",
+          "shopease_support.pdf (Page 1)"
+        ],
+        "escalated": true,
+        "ticket_id": "TKT-20260423090928-8613"
+      },
+      {
+        "role": "user",
+        "content": "tracking"
+      },
+      {
+        "role": "assistant",
+        "content": "You can track your order by following these steps: \n1. Log in to your ShopEase account \n2. Go to \"My Orders\" section \n3. Click on the order you want to track \n4. You will see the current status and location \nYou can also track using the tracking link sent to your registered email. \n\n[Source: shopease_support.pdf, Page 2]",
+        "sources": [
+          "shopease_support.pdf (Page 5)",
+          "shopease_support.pdf (Page 7)",
+          "shopease_support.pdf (Page 2)",
+          "shopease_support.pdf (Page 1)"
+        ],
+        "escalated": false,
+        "ticket_id": null
+      }
+    ],
+    "ai_attempt": "I don't have enough information to answer this question accurately.",
+    "retrieved_context": "[Source: shopease_support.pdf, Page 9]\nQ: What are customer support hours? \nA: Customer support is available:\n\n---\n\n[Source: shopease_support.pdf, Page 8]\n5. Click \"Apply\" \n   6. Discount will be deducted from total\n\n---\n\n[Source: shopease_support.pdf, Page 3]\n================================================ \nSECTION 2: DELIVERY AND SHIPPING \n================================================ \n \nQ: What are the delivery charges? \nA: Delivery charges are as follows: \n   - Orders above Rs 499: FREE ",
+    "created_at": "2026-04-23T09:18:30.257705",
+    "resolved_at": "2026-04-23T09:18:45.336205",
+    "human_response": "math is numeric",
+    "assigned_agent": null
+  }
+}

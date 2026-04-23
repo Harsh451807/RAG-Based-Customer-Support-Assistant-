@@ -1,0 +1,133 @@
+2026-04-23 06:23:28 | workflow.graph       | INFO     | LangGraph workflow compiled successfully
+2026-04-23 06:24:46 | workflow.nodes       | INFO     | [Session: session_001] Processing query: How do I track my order?
+2026-04-23 06:24:46 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:24:46 | workflow.nodes       | INFO     | Retrieval confident (score: 0.882)
+2026-04-23 06:24:47 | workflow.nodes       | INFO     | LLM response generated (10 words)
+2026-04-23 06:24:47 | workflow.nodes       | INFO     | Confidence check FAILED - escalating to HITL
+2026-04-23 06:24:47 | hitl.hitl_manager    | INFO     | Ticket created: TKT-20260423062447-158B | Priority: MEDIUM
+2026-04-23 06:28:45 | workflow.graph       | INFO     | LangGraph workflow compiled successfully
+2026-04-23 06:28:47 | workflow.nodes       | INFO     | [Session: session_001] Processing query: How do I track my order?
+2026-04-23 06:28:47 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:28:47 | workflow.nodes       | INFO     | Retrieval confident (score: 0.882)
+2026-04-23 06:28:48 | workflow.nodes       | INFO     | LLM response generated (57 words)
+2026-04-23 06:28:48 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:28:48 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:29:49 | workflow.nodes       | INFO     | [Session: session_001] Processing query: What is the return policy?
+2026-04-23 06:29:49 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:29:49 | workflow.nodes       | INFO     | Retrieval confident (score: 0.843)
+2026-04-23 06:29:50 | workflow.nodes       | INFO     | LLM response generated (51 words)
+2026-04-23 06:29:50 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:29:50 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:30:31 | workflow.nodes       | INFO     | [Session: session_001] Processing query: hello
+2026-04-23 06:30:31 | workflow.nodes       | INFO     | Intent: GREETING
+2026-04-23 06:30:31 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:30:46 | workflow.nodes       | INFO     | [Session: session_001] Processing query: How long does refund take?
+2026-04-23 06:30:46 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:30:46 | workflow.nodes       | INFO     | Retrieval confident (score: 0.797)
+2026-04-23 06:30:47 | workflow.nodes       | INFO     | LLM response generated (35 words)
+2026-04-23 06:30:47 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:30:47 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:31:02 | workflow.nodes       | INFO     | [Session: session_001] Processing query: I want to speak to a human
+2026-04-23 06:31:02 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:31:02 | workflow.nodes       | INFO     | Retrieval confident (score: 0.594)
+2026-04-23 06:31:03 | workflow.nodes       | INFO     | LLM response generated (19 words)
+2026-04-23 06:31:03 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:31:03 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:31:54 | workflow.nodes       | INFO     | [Session: session_001] Processing query: I want to speak to a human
+2026-04-23 06:31:54 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:31:54 | workflow.nodes       | INFO     | Retrieval confident (score: 0.594)
+2026-04-23 06:31:54 | workflow.nodes       | INFO     | LLM response generated (19 words)
+2026-04-23 06:31:54 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:31:54 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:40:22 | workflow.graph       | INFO     | LangGraph workflow compiled successfully
+2026-04-23 06:40:24 | workflow.nodes       | INFO     | [Session: session_001] Processing query: How long does refund take?
+2026-04-23 06:40:24 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:40:24 | workflow.nodes       | INFO     | Retrieval confident (score: 0.797)
+2026-04-23 06:40:25 | workflow.nodes       | INFO     | LLM response generated (42 words)
+2026-04-23 06:40:25 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:40:25 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:40:49 | workflow.nodes       | INFO     | [Session: session_001] Processing query: hello
+2026-04-23 06:40:49 | workflow.nodes       | INFO     | Intent: GREETING
+2026-04-23 06:40:49 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:41:33 | workflow.nodes       | INFO     | [Session: session_001] Processing query: hello
+2026-04-23 06:41:33 | workflow.nodes       | INFO     | Intent: GREETING
+2026-04-23 06:41:33 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:41:38 | workflow.nodes       | INFO     | [Session: session_001] Processing query: how are you
+2026-04-23 06:41:38 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:41:38 | workflow.nodes       | INFO     | Retrieval confident (score: 0.588)
+2026-04-23 06:41:39 | workflow.nodes       | INFO     | LLM response generated (25 words)
+2026-04-23 06:41:39 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:41:39 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:42:05 | workflow.nodes       | INFO     | [Session: session_001] Processing query: i want to speak to a  human
+2026-04-23 06:42:05 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:42:05 | workflow.nodes       | INFO     | Retrieval confident (score: 0.594)
+2026-04-23 06:42:05 | workflow.nodes       | INFO     | LLM response generated (97 words)
+2026-04-23 06:42:05 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:42:05 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:42:19 | workflow.nodes       | INFO     | [Session: session_001] Processing query: human call please
+2026-04-23 06:42:19 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:42:19 | workflow.nodes       | INFO     | Retrieval confident (score: 0.579)
+2026-04-23 06:42:19 | workflow.nodes       | INFO     | LLM response generated (41 words)
+2026-04-23 06:42:19 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:42:19 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:42:29 | workflow.nodes       | INFO     | [Session: session_001] Processing query: transfer me to human
+2026-04-23 06:42:29 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:42:29 | workflow.nodes       | INFO     | Retrieval confident (score: 0.588)
+2026-04-23 06:42:29 | workflow.nodes       | INFO     | LLM response generated (18 words)
+2026-04-23 06:42:29 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:42:29 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:42:45 | workflow.nodes       | INFO     | [Session: session_001] Processing query: what is life
+2026-04-23 06:42:45 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:42:45 | workflow.nodes       | INFO     | Retrieval confident (score: 0.559)
+2026-04-23 06:42:45 | workflow.nodes       | INFO     | LLM response generated (10 words)
+2026-04-23 06:42:45 | workflow.nodes       | INFO     | Confidence check FAILED - escalating to HITL
+2026-04-23 06:42:45 | hitl.hitl_manager    | INFO     | Ticket created: TKT-20260423064245-FEA2 | Priority: MEDIUM
+2026-04-23 06:42:53 | hitl.hitl_manager    | INFO     | Ticket TKT-20260423064245-FEA2 resolved by human agent
+2026-04-23 06:42:53 | workflow.nodes       | INFO     | HITL complete. Ticket: TKT-20260423064245-FEA2
+2026-04-23 06:42:53 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:43:03 | workflow.nodes       | INFO     | [Session: session_001] Processing query: bye
+2026-04-23 06:43:03 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:43:03 | workflow.nodes       | INFO     | Retrieval confident (score: 0.571)
+2026-04-23 06:43:03 | workflow.nodes       | INFO     | LLM response generated (41 words)
+2026-04-23 06:43:03 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:43:03 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:43:16 | workflow.nodes       | INFO     | [Session: session_001] Processing query: stat
+2026-04-23 06:43:16 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:43:16 | workflow.nodes       | INFO     | Retrieval confident (score: 0.589)
+2026-04-23 06:43:16 | workflow.nodes       | INFO     | LLM response generated (10 words)
+2026-04-23 06:43:16 | workflow.nodes       | INFO     | Confidence check FAILED - escalating to HITL
+2026-04-23 06:43:16 | hitl.hitl_manager    | INFO     | Ticket created: TKT-20260423064316-2A4E | Priority: MEDIUM
+2026-04-23 06:43:28 | hitl.hitl_manager    | INFO     | Ticket TKT-20260423064316-2A4E resolved by human agent
+2026-04-23 06:43:28 | workflow.nodes       | INFO     | HITL complete. Ticket: TKT-20260423064316-2A4E
+2026-04-23 06:43:28 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 06:43:36 | workflow.nodes       | INFO     | [Session: session_001] Processing query: help
+2026-04-23 06:43:36 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 06:43:36 | workflow.nodes       | INFO     | Retrieval confident (score: 0.617)
+2026-04-23 06:43:37 | workflow.nodes       | INFO     | LLM response generated (38 words)
+2026-04-23 06:43:37 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 06:43:37 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 09:09:21 | workflow.graph       | INFO     | LangGraph workflow compiled successfully
+2026-04-23 09:09:28 | workflow.nodes       | INFO     | [Session: session_001] Processing query: what is your use
+2026-04-23 09:09:28 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 09:09:28 | workflow.nodes       | INFO     | Retrieval confident (score: 0.603)
+2026-04-23 09:09:28 | workflow.nodes       | INFO     | LLM response generated (10 words)
+2026-04-23 09:09:28 | workflow.nodes       | INFO     | Confidence check FAILED - escalating to HITL
+2026-04-23 09:09:28 | hitl.hitl_manager    | INFO     | Ticket created: TKT-20260423090928-8613 | Priority: MEDIUM
+2026-04-23 09:09:49 | hitl.hitl_manager    | INFO     | Ticket TKT-20260423090928-8613 resolved by human agent
+2026-04-23 09:09:49 | workflow.nodes       | INFO     | HITL complete. Ticket: TKT-20260423090928-8613
+2026-04-23 09:09:49 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 09:09:58 | workflow.nodes       | INFO     | [Session: session_001] Processing query: tracking
+2026-04-23 09:09:58 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 09:09:58 | workflow.nodes       | INFO     | Retrieval confident (score: 0.694)
+2026-04-23 09:10:09 | workflow.nodes       | INFO     | LLM response generated (57 words)
+2026-04-23 09:10:09 | workflow.nodes       | INFO     | Confidence check PASSED - serving AI response
+2026-04-23 09:10:09 | workflow.nodes       | INFO     | Response ready for delivery
+2026-04-23 09:18:29 | workflow.nodes       | INFO     | [Session: session_001] Processing query: what is maths
+2026-04-23 09:18:29 | workflow.nodes       | INFO     | Intent: KNOWLEDGE_QUERY
+2026-04-23 09:18:29 | workflow.nodes       | INFO     | Retrieval confident (score: 0.545)
+2026-04-23 09:18:30 | workflow.nodes       | INFO     | LLM response generated (10 words)
+2026-04-23 09:18:30 | workflow.nodes       | INFO     | Confidence check FAILED - escalating to HITL
+2026-04-23 09:18:30 | hitl.hitl_manager    | INFO     | Ticket created: TKT-20260423091830-3DB5 | Priority: MEDIUM
+2026-04-23 09:18:45 | hitl.hitl_manager    | INFO     | Ticket TKT-20260423091830-3DB5 resolved by human agent
+2026-04-23 09:18:45 | workflow.nodes       | INFO     | HITL complete. Ticket: TKT-20260423091830-3DB5
+2026-04-23 09:18:45 | workflow.nodes       | INFO     | Response ready for delivery
